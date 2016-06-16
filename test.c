@@ -3,7 +3,7 @@
 int main(){
 
   printf("");
-  printf("“ì•”");
+  printf("“ì•”–ç");
   return 0;
 
 }
